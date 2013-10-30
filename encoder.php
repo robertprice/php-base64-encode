@@ -2,7 +2,7 @@
 /**
  * Script to base64 encode an image file for use in JavaScript, HTML and CSS.
  * 
- * @author   Robert Price <rob@robertprice.co.uk>ß
+ * @author   Robert Price <rob@robertprice.co.uk>
  * @link     http://www.robertprice.co.uk/
  */
 
