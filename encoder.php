@@ -1,6 +1,6 @@
 <?php
 /**
- * Script to base64 encode an image file for use in JavaScript.
+ * Script to base64 encode an image file for use in JavaScript, HTML and CSS.
  * 
  * @author   Robert Price <rob@robertprice.co.uk>ß
  * @link     http://www.robertprice.co.uk/
